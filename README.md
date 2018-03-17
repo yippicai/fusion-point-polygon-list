@@ -8,7 +8,7 @@ Use this template if you wish to create a Search-and-Filter map that turns on/of
 
 ##Demos
 Toggle version: display map view OR sortable list view
-- http://jackdougherty.github.io/fusion-point-polygon-list/index.html
+- http://yippicai.github.io/fusion-point-polygon-list/index.html
 
 Both version: display both map view and sortable list
 - http://jackdougherty.github.io/fusion-point-polygon-list/index_both.html
